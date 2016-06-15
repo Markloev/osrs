@@ -1,0 +1,47 @@
+body {
+  background-color: black !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#scrollMiddle {
+  width: 379px !important;
+  padding: 0px 20px 0px 20px !important;
+  line-height: 25px !important;
+  text-align: right !important;
+}
+
+#scrollTop {
+  width: 379px;
+  background-image: url("includes/images/scrollTop.gif") !important;
+}
+
+#scrollBottom {
+  width: 379px;
+  background-image: url("includes/images/scrollBottom.gif") !important;
+}
+
+#mainContentWrapper {
+  background-image: url("includes/images/background.jpg") !important;
+  background-size: 100%;
+  width: 60% !important;
+  min-height: 100% !important;
+  margin: auto;
+  padding: 0% 5% 0% 5%;
+}
+
+#goals {
+  color: #90c040 !important;
+}
+
+a {
+  color: #90c040 !important;
+}
+
+.skillAlign {
+  text-align: left !important;;
+}
+
+#headerImage {
+  width: 100%;
+}
